@@ -1,10 +1,5 @@
 //https://www.learncpp.com/cpp-tutorial/chapter-2-summary-and-quiz/ Question 1
 #include <iostream>
-#include <vector>
-#include <string>
-#include <stack>
-#include <vector>
-#include <utility>
 using namespace std;
 
 int readnumber() {
